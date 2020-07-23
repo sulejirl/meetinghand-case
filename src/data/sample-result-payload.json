@@ -1,0 +1,29 @@
+{
+    "registrations": [
+        {
+            "event_registration_firstname": "Fatih Sinan",
+            "event_registration_lastname": "Yaman",
+            "event_registration_email": "sinan@meetinghand.com",
+            "event_registration_type_id": 2887,
+            "event_registration_type_price": 45.00,
+            "workshops": [{
+                    "event_workshop_id": 1549,
+                    "event_workshop_price": 50.00
+                },
+                {
+                    "event_workshop_id": 1549,
+                    "event_workshop_price": 50.00
+                }
+            ]
+        },
+        {
+            "event_registration_firstname": "Gaye",
+            "event_registration_lastname": "Yaman",
+            "event_registration_email": "gaye@meetinghand.com",
+            "event_registration_type_id": 2888,
+            "event_registration_type_price": 30.00,
+            "workshops": []
+        }
+    ],
+    "total_amount": 175.00
+}
